@@ -119,7 +119,7 @@ export default function Hero() {
               <Mail size={18} /> Contact Me
             </Button>
             <Button size="lg" variant="ghost" asChild>
-              <a href={SOCIAL_LINKS.resume} target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/17ziVd9S8nmTX0UAvAy2-jmfp2b8v-2zO/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 <FileText size={18} /> Resume
               </a>
             </Button>
